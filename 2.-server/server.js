@@ -7,7 +7,7 @@ const servidor = http.createServer((req, res) => {
     const validURL = url === "/koder";
     res.statusCode = 200;
     res.setHeader('content-type', 'text/json');
-
+     
     if(metodo === "GET" && validURL ){
         res.write('{"text": "aqui estan todos los koders"}');
     }else if(metodo === "POST" && validURL){
