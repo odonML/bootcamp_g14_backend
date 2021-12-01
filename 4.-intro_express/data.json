@@ -1,8 +1,30 @@
 {
+    "mentores": [
+        {
+            "nombre": "OdonML",
+            "genero": "M"
+        }
+    ],
     "koders": [
         {
             "nombre": "Selene",
             "genero": "F"
+        },
+        {
+            "nombre": "OdonML",
+            "genero": "M"
+        },
+        {
+            "nombre": "Jairo",
+            "genero": "M"
+        },
+        {
+            "nombre": "German2",
+            "genero": "M"
+        },
+        {
+            "nombre": "odon",
+            "genero": "M"
         }
     ]
 }
